@@ -1,0 +1,5 @@
+from training_101 (cutoff=0, flowers)
+
+epochs = 1,...,50
+
+layers = Branch_3_b_1x1_act/Relu
