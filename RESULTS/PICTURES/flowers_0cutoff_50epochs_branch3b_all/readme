@@ -1,4 +1,4 @@
-from training_101 (cutoff=0, flowers)
+from flowers_0cutoff_50epochs (cutoff=0, flowers)
 
 epochs = 1,...,50
 
