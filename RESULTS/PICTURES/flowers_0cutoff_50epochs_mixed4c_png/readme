@@ -5,5 +5,5 @@ from flowers_0cutoff_50epochs
     topology=googlenet
     cutoff=0
     finte_tune=True
-    dataset=flowers)
+    dataset=flowers17)
 layer = Mixed_4c
