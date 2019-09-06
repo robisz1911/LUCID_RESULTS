@@ -1,0 +1,9 @@
+from flowers_0cutoff_50epochs
+(   Adam(lr=0.001)
+    batch_size=32
+    epochs=50
+    topology=googlenet
+    cutoff=20
+    finte_tune=True
+    dataset=flowers17)
+layer = Mixed_4f_Branch_3_b_1x1_act/Relu
