@@ -6,4 +6,4 @@ from flowers_0cutoff_50epochs
     cutoff=0
     finte_tune=True
     dataset=animals)
-layer = Branch_3_b_1x1_act/Relu
+layer = Branch_3_b
