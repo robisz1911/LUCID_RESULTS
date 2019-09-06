@@ -1,4 +1,4 @@
-## LUCID_RESULTS
+## RESULTS
 Repo for LUCID visualizations/pb files
 ## DATASETS
 Flowers17, Animals
