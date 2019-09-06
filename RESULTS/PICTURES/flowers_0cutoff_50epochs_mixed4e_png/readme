@@ -6,4 +6,4 @@ from flowers_0cutoff_50epochs
     cutoff=0
     finte_tune=True
     dataset=flowers17)
-layer = Mixed_4e
+layer = Mixed_4e_Branch_3_b_1x1_act/Relu
