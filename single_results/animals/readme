@@ -1,0 +1,12 @@
+TRANSFER LEARNING ON ANIMALS DATASET
+
+animals_50cutoff - cutoff = 50
+                 - layers = Branch_3_b_1x1_act/Relu
+                 - parameters = 0426_1125
+                 - val_acc ~ 80%
+                           
+animals_20cutoff - cutoff = 20
+                 - layers = Branch_3_b_1x1_act/Relu
+                 - parameters = 0426_1125
+                 - val_acc ~ 70%
+
